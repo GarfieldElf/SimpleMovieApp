@@ -1,0 +1,50 @@
+[
+
+    {
+        "id": 1,
+        "name":"Aile Arasında",
+        "time":"2s 5dk",
+        "video":"https://vjs.zencdn.net/v/oceans.mp4",
+        "category":"Komedi",
+        "title":"21 yıllık eşinin aniden terk ettiği Fikret (Engin Günaydın) ve 21 yıllık müzisyen sevgilisi tarafından bırakılan müzikhol vokalisti Solmaz (Demet Evgar) komik bir tesadüfle tanışması ve dost olmasının ardından, Solmaz'ın kızı Zeynep (Su Kutlu) bu sırada ailesiyle ilgili yalanlar söylediği Adanalı sevgilisinden evlenme teklifi alır. Solmaz, Fikret'ten, kızının saygın, efendi, emniyet müdürü babası rolünü oynamasını ister. Aile arasında bir kız isteme, bir de düğün olacak, ve bu iş bitecektir. Ancak damadın geleneksel ailesi detaylı evlilik seremonileri planlamaktadır. Asla yalan söyleyemeyen, nevrotik, tedirgin Fikret, sert, silah taşıyan, kebapçı zinciri sahibi bir Adanalı aileye karşı hayatının rolünü oynamak zorundadır.",
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/17/11/28/07/12/5566351.jpg",
+        "star":4.0,
+        "director":"Ozan Açıktan",
+        "cast":[ 
+            {"name":"Engin Günaydın"},{"name":" Demet Evgar"},{"name":"Erdal Özyağcılar"}
+        ]
+     },
+
+     {
+        "id": 2,
+        "name":"Kuru Otlar Üstüne",
+        "time":"3s 17dk",
+        "video":"https://vjs.zencdn.net/v/oceans.mp4",
+        "category":"Dram",
+        "title":"Doğu Anadolu’nun ücra bir beldesinde zorunlu hizmetini yapmakta olan resim öğretmeni Samet’in başına anlam vermekte zorlandığı bazı olaylar gelir.",
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/23/07/07/19/25/0174755.jpg",
+        "star":4.5,
+        "director":"Nuri Bilge Ceylan",
+        "cast":[ 
+            {"name":"Deniz Celiloğlu"},{"name":"Merve Dizdar"},{"name":"Musab Ekici"}
+        ]
+     },
+
+     {
+        "id": 3,
+        "name":"Venedik'te Cinayet",
+        "time":"1s 44dk",
+        "video":"https://vjs.zencdn.net/v/oceans.mp4",
+        "category":"Dedektif",
+        "title":"Film, artık emeklilik hayatı yaşayan Hercule Poirot'nun, Venedik'te çok da gönlünden geçerek katılmadığı bir spiritüel seansta katılımcılardan birinin öldürülmesi sonrası dedektiflik günlerine geri dönmesini konu ediniyor.Emekli olan ve dünyanın en göz alıcı şehirlerinden Venedik’e giden Poirot, istemese de çürümüş ve hayaletlerle dolu bir şatoda düzenlenen bir spiritüel seansı ziyaret eder. Misafirlerden birinin öldürülmesi sonucu Poirot kendini gölgeler ve sırlarla dolu karanlık bir dünyanın içinde bulur. ",
+        "image":"https://tr.web.img3.acsta.net/c_310_420/pictures/23/08/16/17/34/3060229.jpg",
+        "star":3.0,
+        "director":"Kenneth Branagh",
+        "cast":[ 
+            {"name":"Kenneth Branagh"},{"name":"Tina Fey"},{"name":"Camille Cottin"}
+        ]
+
+    }
+
+
+]
